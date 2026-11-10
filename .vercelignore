@@ -1,0 +1,4 @@
+# Documentación: no hace falta en producción
+README.md
+.gitattributes
+.gitignore

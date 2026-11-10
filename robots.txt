@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tallerzz.com/punto-a-b/sitemap.xml
